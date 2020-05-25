@@ -1,0 +1,26 @@
+
+.wrapper {
+margin-bottom: 20px;
+}
+
+.wrapper-btn {
+	margin-top: 20px;
+}
+.btn {
+    display: inline-flex;
+    margin: 10px;
+    text-decoration: none;
+    border: 2px solid #0a0e13;
+    position: relative;
+    overflow: hidden;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 12px 30px;
+    color: #FFF;
+    font-weight: bold;
+    text-transform: uppercase; 
+    font-family: 'Roboto Condensed', Тahoma, sans-serif;
+    background: #337AB7;
+    transition: box-shadow 0.3s, transform 0.3s;
+    cursor: pointer;
+}
